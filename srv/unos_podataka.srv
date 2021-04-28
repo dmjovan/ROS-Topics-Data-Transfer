@@ -1,0 +1,5 @@
+string Tmax
+string Tmin
+string Tavg
+---
+bool response
