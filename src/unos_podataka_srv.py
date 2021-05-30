@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import rospy
-from domaci_1.srv import unos_podataka, unos_podatakaResponse
+from ROS_Topics_Data_Transfer.srv import unos_podataka, unos_podatakaResponse
 
 csv_path = '/home/ros/Workspaces/getting_started/src/domaci_1/src/weather_data_nyc_centralpark_2016.csv'
 
